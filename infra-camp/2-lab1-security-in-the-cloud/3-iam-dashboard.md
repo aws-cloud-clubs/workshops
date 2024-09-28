@@ -31,6 +31,7 @@ AWS 관리 콘솔의 IAM 섹션 탐색을 알아봅시다. 워크숍을 위해 A
   6. 다음 화면에서 **이용 약관 동의** 박스를 체크하세요.
 
   7. 왼쪽 화면에서 **AWS 콘솔 열기** 버튼을 클릭하세요. 그러면 새 탭이 열리고 AWS 관리 콘솔로 이동됩니다.
+  
   [![IAM Dashboard Account-7](https://static.us-east-1.prod.workshops.aws/public/856f008e-b000-462c-b14e-2b12e35d7697/static/images/sign-in-mgmt-console.png)](https://static.us-east-1.prod.workshops.aws/public/856f008e-b000-462c-b14e-2b12e35d7697/static/images/sign-in-mgmt-console.png)
 
   축하합니다! 이제 실습을 위한 준비가 되었습니다!
@@ -44,7 +45,7 @@ AWS 관리 콘솔의 IAM 섹션 탐색을 알아봅시다. 워크숍을 위해 A
 
 2. [IAM 대시보드](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home)로 이동하여 사용자 계정, 정책 및 기타 IAM 리소스에 대한 정보를 확인합니다.
 
-3. 왼쪽 열의 **액세스 관리**에서 **_정책(Policies)_**을 선택합니다.
+3. 왼쪽 열의 **액세스 관리**에서 _정책(Policies)_ 을 선택합니다.
 
 4. 정책 필터 검색창에 `AdministratorAccess`를 입력하고 `<Enter>` 키를 눌러 _AdministratorAccess_ 정책을 찾습니다.
 
