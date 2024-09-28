@@ -23,7 +23,7 @@ IAM은 요청에 대해 허용(allow) 또는 거부(deny) 작업으로 응답합
 IAM 정책에는 두 가지 유형이 있습니다: _주체 기반 정책(identity-based policies)_ 과 _리소스 기반 정책(resource-based policies)_. 주체 기반 정책은 앞서 정의한 주체에 적용되고, 리소스 기반 정책은 AWS 서비스에 적용됩니다.
 
 ```
-몇 가지 실습에서는 JSON으로 작성된 기본적인 정책 예시를 다룰 것입니다. JSON의 프로그래밍 개념과 기본 구조를 배우는 것은 이번 워크숍의 범위를 벗어납니다. JSON 언어에 대해 더 배우고자 한다면 [JSON 표준](https://www.json.org/json-en.html) 및 [AWS IAM 사용자 가이드](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)를 참고할 수 있습니다.
+> 몇 가지 실습에서는 JSON으로 작성된 기본적인 정책 예시를 다룰 것입니다. JSON의 프로그래밍 개념과 기본 구조를 배우는 것은 이번 워크숍의 범위를 벗어납니다. JSON 언어에 대해 더 배우고자 한다면 [JSON 표준](https://www.json.org/json-en.html) 및 [AWS IAM 사용자 가이드](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html)를 참고할 수 있습니다.
 ```
 
 다음 섹션에서는 사용자와 정책에 대해 더 알아보고, 리소스를 생성하는 몇 가지 실습을 진행하겠습니다.
