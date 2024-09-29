@@ -4,7 +4,7 @@
 
 1. [IAM 콘솔](https://us-east-1.console.aws.amazon.com/iamv2/home?region=us-east-1#/home)로 이동합니다.
 
-2. **User Group(사용자 그룹)** > **Create Group(그룹 만들기)**를 클릭하여 AWS 사용자 그룹을 생성합니다. 그룹 이름을 `PowerUserGroup`으로 설정합니다.
+2. **User Group(사용자 그룹) > Create Group(그룹 만들기)** 를 클릭하여 AWS 사용자 그룹을 생성합니다. 그룹 이름을 `PowerUserGroup`으로 설정합니다.
 
 3. 현재는 _Add users(사용자 추가)_ 옵션을 건너뜁니다.
 
@@ -19,7 +19,7 @@
 
 이제 IAM 그룹에 권한 정책이 연결되었습니다. 그룹에 추가된 모든 사용자는 연결된 정책의 권한을 상속받게 됩니다.
 
-1. 페이지 왼쪽에서 **사용자(Users)**를 클릭한 다음, _Add users(사용자 추가)_ 를 클릭합니다.
+1. 페이지 왼쪽에서 **사용자(Users)** 를 클릭한 다음, _Add users(사용자 추가)_ 를 클릭합니다.
 
 2. 사용자 이름을 `student-user1`로 입력합니다. _Provide user access to the AWS Management Console(AWS 관리 콘솔에 사용자 접근 권한 제공)_ 옵션을 체크합니다.
 
@@ -41,7 +41,7 @@ c) **권한 경계(Permissions boundary)** 섹션은 건너뛰고, **다음**을
 
 [![IAM Users-4](https://static.us-east-1.prod.workshops.aws/public/856f008e-b000-462c-b14e-2b12e35d7697/static/images/iam/IAM-dashboard-add-user-to-group-1.png)](https://static.us-east-1.prod.workshops.aws/public/856f008e-b000-462c-b14e-2b12e35d7697/static/images/iam/IAM-dashboard-add-user-to-group-1.png)
 
-7. 검토 및 생성 페이지에서 사용자 정보를 확인한 후, **사용자 생성(Create User)**을 클릭합니다.
+7. 검토 및 생성 페이지에서 사용자 정보를 확인한 후, **사용자 생성(Create User)** 을 클릭합니다.
 
 [![IAM Users-5](https://static.us-east-1.prod.workshops.aws/public/856f008e-b000-462c-b14e-2b12e35d7697/static/images/iam/IAM-dashboard-add-user-to-group-2.png)](https://static.us-east-1.prod.workshops.aws/public/856f008e-b000-462c-b14e-2b12e35d7697/static/images/iam/IAM-dashboard-add-user-to-group-2.png)
 
