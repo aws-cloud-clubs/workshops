@@ -41,7 +41,10 @@ IAM 그룹, 사용자 생성 및 권한 부여에 대해 익숙해졌으니 이�
 
 > **참고**: 텍스트 편집기 또는 IDE를 사용하여 정책 문을 작성하고 나중에 사용할 수 있도록 저장하세요. 그리고 정책에 이름을 지정하세요(예: `IAM-custom-policy.json`).
 
-> 솔루션 보기
+<details>
+<summary>솔루션 보기</summary>
+<div markdown="1">
+
 ```json
 {
     "Version": "2012-10-17",
@@ -62,3 +65,6 @@ IAM 그룹, 사용자 생성 및 권한 부여에 대해 익숙해졌으니 이�
 ```
 
 이 정책에서는 특정 사용자(Principal)에 대해 _Deny_ 동작을 사용하고 있으며, 하나의 S3 버킷이라는 특정 리소스를 나열하고 있습니다. 이 리소스 요소에서는 AWS의 특정 리소스를 지정하는 방법인 **[ARN(Amazon Resource Name)](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html#ARN)** 을 사용하고 있습니다. 이 정책 문을 작성할 때, 관리 콘솔의 오른쪽 상단에서 확인할 수 있는 올바른 AWS 계정 번호로 `123456789012` 값을 교체하는 것을 잊지 마세요.
+
+</div>
+</details>
