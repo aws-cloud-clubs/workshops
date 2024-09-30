@@ -30,4 +30,4 @@ VPC 생성
 
 ![image](https://github.com/user-attachments/assets/ef6ce411-714f-43fc-b2ea-018ba3fc0b19)
 
-이게 다입니다... 클라우드 데이터 센터가 이제 막 만들어졌어요!
+이게 다예요... 클라우드 데이터 센터가 이제 막 만들어졌어요!
