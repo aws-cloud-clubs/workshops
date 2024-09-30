@@ -17,7 +17,7 @@ VPC 서브넷
 
 4. **서브넷 설정** 섹션에서 아래와 같이 이름과 IP 범위 값을 입력하여 `public-subnet` 및 `private-subnet` 서브넷을 생성합니다. **_참고_**: 두 번째 서브넷을 생성하려면 *새 서브넷 추가 버튼*을 클릭합니다.
    ![image](https://github.com/user-attachments/assets/6d5ac6a1-0f47-4598-82cc-8148c4415c48)
-   ![image](https://github.com/user-attachments/assets/44946479-87ba-44d7-b1fe-cd827dec7f1f)
+   ![image](https://github.com/user-attachments/assets/44946479-87ba-44d7-b1fe-cd827dec7f1f)<br>
    ![image](https://github.com/user-attachments/assets/2e36be1a-f4ee-47d7-adc6-04bf36faae70)
 
 5. 다음으로, _서브넷 생성_ 버튼을 클릭합니다.
